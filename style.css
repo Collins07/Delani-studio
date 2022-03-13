@@ -56,3 +56,11 @@ h3{
     line-height: 2;
     color: white;
 }
+.services{
+    color: white;
+}
+#row5{
+    height: 350px;
+    margin-top: 3.5%;
+    overflow: auto;
+}
