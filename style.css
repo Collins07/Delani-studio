@@ -1,0 +1,24 @@
+#row1{
+    border: 2px solid white;
+    height: 50px;
+    width: 50px;
+    margin-top: 15%;
+    margin-left: 48%;
+    text-align: center;
+    border-radius: 50%;
+}
+
+#fluid1{
+    border: 0.2px solid white;
+    height: 530px;
+    background-image: url("./images/h_img.jpg");
+    background-size: cover;
+}
+.p1{
+    padding-top: 25%;
+    font-size: 25px;
+    color: white;
+}
+#row2{
+    text-align: center;
+}
