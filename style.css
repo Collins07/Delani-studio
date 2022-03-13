@@ -156,3 +156,36 @@ img{
     height: 70px;
     width: 90px;
 }
+#fluid4{
+    height: 470px;
+    background-image: url("./images/c_image.jpg");
+    background-size: cover;
+}
+#name{
+    width: 400px;
+    margin-left: 5px;
+    background: none;
+    color: white;
+}
+#email{
+    width: 400px;
+    margin-left: 5px;
+    background: none;
+    color: white;
+
+}
+#class1{
+    display: flex;
+    margin-top: 3%;
+}
+#form1{
+    margin-top: 5%;
+    width: 70%;
+    margin-left: 20%;
+}
+#message{
+    width: 97%;
+    height: 130px;
+    background: none;
+    color: white;
+}
