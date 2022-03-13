@@ -22,3 +22,11 @@
 #row2{
     text-align: center;
 }
+h2{
+    line-height: 2;
+    color: white;
+}
+.p2{
+    color: white;
+    font-size: 13px;
+}
