@@ -30,3 +30,29 @@ h2{
     color: white;
     font-size: 13px;
 }
+#fluid3{
+    margin-top: 4%;
+    height: 280px;
+    overflow: auto;
+}
+h3{
+    text-align: center;
+}
+.p3{
+    text-align: center;
+    line-height: 2;
+}
+#fluid2{
+    border: 0.5px solid white;
+    height: 330px;
+    background-image: url("./images/s_image.jpg");
+}
+#row4{
+    height: 150px;
+    margin-top: 9%;
+}
+#p4{
+    text-align: center;
+    line-height: 2;
+    color: white;
+}
