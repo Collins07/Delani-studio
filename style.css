@@ -189,3 +189,10 @@ img{
     background: none;
     color: white;
 }
+#container{
+    height: 150px;
+    margin-top: 5%;
+}
+#row10{
+    margin-left: 13%;
+}
