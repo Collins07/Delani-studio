@@ -98,3 +98,33 @@ img{
     width: 83%;
     margin-left: 10%;
 }
+.show{
+    display: none;
+    font-size: 13px;
+    text-align: center;
+    margin-top: 3%;
+}
+.show1{
+    display: none;
+    font-size: 13px;
+    text-align: center;
+    margin-top: 3%;
+}
+.show2{
+    display: none;
+    font-size: 13px;
+    text-align: center;
+    margin-top: 5%;
+}
+.p6{
+    text-align: center;
+    line-height: 2;
+}
+.p7{
+    text-align: center;
+    line-height: 2;
+}
+.p8{
+    text-align: center;
+    line-height: 2;
+}
