@@ -117,4 +117,26 @@ $(document).ready(function() {
           $("body").hover(function(){
               $(".test8").css("filter", "brightness(100%)");
          });
+
+
+        //  button JQuery effects
+         $("#btn").hover(function(){
+            $(this).css("background-color", "green");
+          }, function() {
+            $(this).css("background-color", "blue");
+      
+          });
     });
+
+    // Javascript user form
+  function myFunction(){
+    let name = document.getElementById("name").value;
+    let message = document.getElementById("message").value;
+
+    if(name == "" || message == ""){
+      alert("Enter valid details")
+    }
+    else{
+      alert(name + " " + "we have received your message. Thank you fro reaching out to us.");
+    }
+  }
