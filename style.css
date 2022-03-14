@@ -10,7 +10,7 @@
 
 #fluid1{
     border: 0.2px solid white;
-    height: 530px;
+    height: 600px;
     background-image: url("./images/h_img.jpg");
     background-size: cover;
 }
@@ -22,12 +22,12 @@
 #mouse{
     width: 20px;
     height: 30px;
-    margin-top: 2%;
-    margin-left: 0%;
+    margin-top: 7%;
+    margin-left: -1%;
 }
 #row2{
     text-align: center;
-    margin-top: 3%;
+    margin-top: 2%;
 }
 h2{
     line-height: 2;
